@@ -1,4 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,googleusercontent.com
+  - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
   - DOMAIN-KEYWORD,nest-camera
   - CIDR,74.125.0.0/16
