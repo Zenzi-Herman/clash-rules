@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-REGEX,\.(?:apple|itunes)\.
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,itunes.com
   - DOMAIN-KEYWORD,itunes
