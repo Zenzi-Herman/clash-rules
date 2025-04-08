@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN-SUFFIX,akamaized.net
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,api.iris.microsoft.com
+  - IP-CIDR,158.115.192.0/19
+  - IP-CIDR,137.221.96.0/19
