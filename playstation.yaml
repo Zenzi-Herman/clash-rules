@@ -1,4 +1,4 @@
 payload:
-  DOMAIN-SUFFIX,playstation.com
-  DOMAIN-KEYWORD,playstation
-  DOMAIN-SUFFIX,playstationnetwork.com
+  - DOMAIN-SUFFIX,playstation.com
+  - DOMAIN-KEYWORD,playstation
+  - DOMAIN-SUFFIX,playstationnetwork.com
