@@ -2,3 +2,4 @@ payload:
   - DOMAIN-SUFFIX,kr.cdn.blizzard.com
   - DOMAIN-SUFFIX,kr.actual.battle.net
   - DOMAIN-SUFFIX,kr.patch.battle.net
+  - DOMAIN-SUFFIX,kr.api.blizzard.com
