@@ -8,4 +8,5 @@ payload:
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-KEYWORD,nest-camera
   - DOMAIN-SUFFIX,nest.com
+  - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
   - IP-CIDR,74.125.0.0/16
