@@ -1,9 +1,9 @@
 payload:
-  - nest-camera-media-upload.googleapis.com
-  - play.googleapis.com
-  - clients3.google.com
-  - lycraservice-pa-cam-prod.googleapis.com
-  - bc.googleusercontent.com
+  - DOMAIN-SUFFIX,nest-camera-media-upload.googleapis.com
+  - DOMAIN-SUFFIX,play.googleapis.com
+  - DOMAIN-SUFFIX,clients3.google.com
+  - DOMAIN-SUFFIX,lycraservice-pa-cam-prod.googleapis.com
+  - DOMAIN-SUFFIX,bc.googleusercontent.com
   - DOMAIN-SUFFIX,connectivitycheck.gstatic.com
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-KEYWORD,nest-camera
