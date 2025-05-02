@@ -1,4 +1,17 @@
 payload:
+  - DOMAIN-SUFFIX,blizzcon-a.akamaihd.net
+  - DOMAIN-SUFFIX,blz-contentstack.com
+  - DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
+  - DOMAIN-SUFFIX,blzddistkr1-a.akamaihd.net
+  - DOMAIN-SUFFIX,blzmedia-a.akamaihd.net
+  - DOMAIN-SUFFIX,blznav.akamaized.net
+  - DOMAIN-SUFFIX,bnetcmsus-a.akamaihd.net
+  - DOMAIN-SUFFIX,bnetproduct-a.akamaihd.net
+  - DOMAIN-SUFFIX,bnetshopus.akamaized.net
+
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,api.iris.microsoft.com
+  - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,level3.blizzard.com
   - DOMAIN-SUFFIX,battlenet.com.cn
   - DOMAIN-SUFFIX,blizzard.cn
