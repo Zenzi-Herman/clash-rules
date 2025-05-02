@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,kr.patch.battle.net
   - DOMAIN-SUFFIX,kr.api.blizzard.com
   - DOMAIN-SUFFIX,kr.version.battle.net
+  - DOMAIN-SUFFIX,blizzard.nefficient.co.kr
