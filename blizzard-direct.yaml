@@ -31,9 +31,3 @@ payload:
   - DOMAIN-SUFFIX,sc2.nosdn.127.net
   - DOMAIN-SUFFIX,wow.nosdn.127.net
   - DOMAIN-SUFFIX,wowchina.com
-  - DOMAIN-SUFFIX,kr.cdn.blizzard.com
-  - DOMAIN-SUFFIX,kr.actual.battle.net
-  - DOMAIN-SUFFIX,kr.patch.battle.net
-  - DOMAIN-SUFFIX,kr.api.blizzard.com
-  - DOMAIN-SUFFIX,kr.version.battle.net
-  - DOMAIN-SUFFIX,kr
