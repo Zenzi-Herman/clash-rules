@@ -1,7 +1,7 @@
 payload:
   - DOMAIN,blizzard.gcdn.cloudn.co.kr,REJECT
   - DOMAIN,kr.cdn.blizzard.com,REJECT
-  - DOMAIN-SUFFIX,kr.shop.battle.net
+ # - DOMAIN-SUFFIX,kr.shop.battle.net
   - DOMAIN-SUFFIX,kr.cdn.blizzard.com
   - DOMAIN-SUFFIX,kr.actual.battle.net
   - DOMAIN-SUFFIX,kr.patch.battle.net
