@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-KEYWORD,akamaized
   - DOMAIN-SUFFIX,blizzcon-a.akamaihd.net
   - DOMAIN-SUFFIX,blz-contentstack.com
   - DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
