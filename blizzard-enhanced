@@ -5,7 +5,4 @@ payload:
   - IP-CIDR,158.115.192.0/19
   - IP-CIDR,137.221.96.0/19
   - DOMAIN-SUFFIX,level3.blizzard.com
-  - DOMAIN-SUFFIX,kr.cdn.blizzard.com
-  - DOMAIN-SUFFIX,kr.actual.battle.net
-  - DOMAIN-SUFFIX,kr.patch.battle.net
-  - DOMAIN-SUFFIX,kr.api.blizzard.com
+
