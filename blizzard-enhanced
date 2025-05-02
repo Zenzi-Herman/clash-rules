@@ -1,9 +1,9 @@
 payload:
 
-  - DOMAIN-SUFFIX,xboxlive.com
+#  - DOMAIN-SUFFIX,xboxlive.com
 #  - DOMAIN-SUFFIX,api.iris.microsoft.com
   - IP-CIDR,158.115.192.0/19
   - IP-CIDR,137.221.96.0/19
-  - DOMAIN-SUFFIX,level3.blizzard.com
+#  - DOMAIN-SUFFIX,level3.blizzard.com
   - DOMAIN-KEYWORD,blizzard
   - DOMAIN-KEYWORD,battlenet
