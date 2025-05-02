@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-SUFFIX,level3.blizzard.com
   - DOMAIN-SUFFIX,battlenet.com.cn
   - DOMAIN-SUFFIX,blizzard.cn
   - DOMAIN-SUFFIX,blizzardgames.cn
@@ -16,5 +17,5 @@ payload:
   - DOMAIN-SUFFIX,kr.actual.battle.net
   - DOMAIN-SUFFIX,kr.patch.battle.net
   - DOMAIN-SUFFIX,kr.api.blizzard.com
-  - kr.version.battle.net
+  - DOMAIN-SUFFIX,kr.version.battle.net
   - DOMAIN-SUFFIX,kr
