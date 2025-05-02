@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN,blizzard.gcdn.cloudn.co.kr,REJECT
+  - DOMAIN,kr.cdn.blizzard.com,REJECT
   - DOMAIN-SUFFIX,cdn.blizzard.com
   - DOMAIN,telemetry-in.battle.net
   - DOMAIN-KEYWORD,akamaized
