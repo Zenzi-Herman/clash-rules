@@ -1,6 +1,6 @@
 payload:
- # - DOMAIN-SUFFIX,kr.actual.battle.net
-  - DOMAIN-SUFFIX,kr.api.blizzard.com
+  - DOMAIN-SUFFIX,kr.actual.battle.net
+ # - DOMAIN-SUFFIX,kr.api.blizzard.com
 #  - DOMAIN-SUFFIX,kr.account.battle.net
 #  - DOMAIN-SUFFIX,kr.shop.battle.net
   - DOMAIN-SUFFIX,kr.cdn.blizzard.com
