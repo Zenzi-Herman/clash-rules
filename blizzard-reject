@@ -9,7 +9,7 @@ payload:
 
   - DOMAIN-SUFFIX,kr.cdn.blizzard.com
 
-  - DOMAIN-SUFFIX,kr.version.battle.net
+#  - DOMAIN-SUFFIX,kr.version.battle.net
 
   - DOMAIN-SUFFIX,blizzard.nefficient.co.kr
   - DOMAIN,blizzard.gcdn.cloudn.co.kr
