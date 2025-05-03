@@ -1,2 +1,3 @@
 payload:
-  - DOMAIN,tlu.dl.delivery.mp.microsoft.com
+  # 系统补丁分发
+  - DOMAIN-SUFFIX,delivery.mp.microsoft.com
