@@ -3,6 +3,20 @@ payload:
   - IP-CIDR,185.60.112.157/32,no-resolve
   - IP-CIDR,185.60.112.158/32,no-resolve
   - IP-CIDR,24.105.30.129/32,no-resolve
+
+  - DOMAIN-SUFFIX,cdn.blizzard.com
+  - DOMAIN,telemetry-in.battle.net
+  - DOMAIN-KEYWORD,akamaized
+  - DOMAIN-SUFFIX,blizzcon-a.akamaihd.net
+  - DOMAIN-SUFFIX,blz-contentstack.com
+  - DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
+  - DOMAIN-SUFFIX,blzddistkr1-a.akamaihd.net
+  - DOMAIN-SUFFIX,blzmedia-a.akamaihd.net
+  - DOMAIN-SUFFIX,blznav.akamaized.net
+  - DOMAIN-SUFFIX,bnetcmsus-a.akamaihd.net
+  - DOMAIN-SUFFIX,bnetproduct-a.akamaihd.net
+  - DOMAIN-SUFFIX,bnetshopus.akamaized.net
+  
   - DOMAIN-SUFFIX,battle.net
 
   - DOMAIN-SUFFIX,blizzard.com
