@@ -1,5 +1,8 @@
 payload:
-  - DOMAIN-SUFFIX,kr.actual.battle.net
+# 屏蔽后商店无法打开
+#  - DOMAIN-SUFFIX,kr.shop.battle.net
+ # - DOMAIN-SUFFIX,kr.actual.battle.net
+#
  # - DOMAIN-SUFFIX,kr.api.blizzard.com
 #  - DOMAIN-SUFFIX,kr.account.battle.net
  # - DOMAIN-SUFFIX,kr.patch.battle.net
@@ -12,4 +15,4 @@ payload:
   - DOMAIN,blizzard.gcdn.cloudn.co.kr
   - DOMAIN,kr.cdn.blizzard.com
 
-#  - DOMAIN-SUFFIX,kr.shop.battle.net
+
