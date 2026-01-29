@@ -4,6 +4,7 @@ payload:
   - IP-CIDR,185.60.112.158/32,no-resolve
   - IP-CIDR,24.105.30.129/32,no-resolve
 
+  - DOMAIN-SUFFIX,blz-contentstack-images.akamaized.net
   - DOMAIN-SUFFIX,cdn.blizzard.com
   - DOMAIN,telemetry-in.battle.net
   - DOMAIN-KEYWORD,akamaized
