@@ -5,4 +5,14 @@ payload:
   - DOMAIN-SUFFIX,hbomax.com
   
   - DOMAIN-SUFFIX,bamgrid.com
+
+
+    # > Disney+
   - DOMAIN-SUFFIX,disneyplus.net
+  - PROCESS-NAME,com.disney.disneyplus
+  - DOMAIN-SUFFIX,bamgrid.com
+  - DOMAIN-SUFFIX,disneyplus.com
+  - DOMAIN-SUFFIX,disney-plus.net
+  - DOMAIN-SUFFIX,disneystreaming.com
+  - DOMAIN-SUFFIX,dssott.com
+  - DOMAIN,cdn.registerdisney.go.com
