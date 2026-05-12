@@ -2,3 +2,5 @@ payload:
   - DOMAIN-SUFFIX,tv.apple.com
   - DOMAIN-SUFFIX,videos.apple.com
   - DOMAIN-SUFFIX,sps-media.apple.com
+  - DOMAIN-SUFFIX,itunes.apple.com
+  
