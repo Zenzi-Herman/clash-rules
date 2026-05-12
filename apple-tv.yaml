@@ -1,2 +1,2 @@
 payload:
-  DOMAIN-SUFFIX,tv.apple.com
+  - DOMAIN-SUFFIX,tv.apple.com
