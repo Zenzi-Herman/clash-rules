@@ -3,3 +3,5 @@ payload:
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,iosapps.itunes.apple.com
   - DOMAIN-SUFFIX,icloud.com
+  - NOT,(DOMAIN-SUFFIX,sps-media.apple.com)
+  - NOT,(DOMAIN-SUFFIX,tether.edge.apple)
