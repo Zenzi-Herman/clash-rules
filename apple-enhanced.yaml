@@ -1,8 +1,9 @@
 payload:
 #  - DOMAIN-REGEX,\.(?:apple|itunes|icloud)\.
  # - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,bag.itunes.apple.com
   - DOMAIN-SUFFIX,downloaddispatch.itunes.apple.com
   - DOMAIN-SUFFIX,iosapps.itunes.apple.com
-  - DOMAIN-SUFFIX,icloud.com
+  #- DOMAIN-SUFFIX,icloud.com
  # - NOT,((DOMAIN-SUFFIX,sps-media.apple.com))
 #  - NOT,((DOMAIN-SUFFIX,tether.edge.apple))
