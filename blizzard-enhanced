@@ -7,3 +7,4 @@ payload:
 #  - DOMAIN-SUFFIX,level3.blizzard.com
   - DOMAIN-KEYWORD,blizzard
   - DOMAIN-KEYWORD,battlenet
+  - DOMAIN-SUFFIX,akadns.net
