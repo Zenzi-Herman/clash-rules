@@ -1,6 +1,6 @@
 payload:
 #  - DOMAIN-REGEX,\.(?:apple|itunes|icloud)\.
- # - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,apple.com
  # - DOMAIN-SUFFIX,bag.itunes.apple.com
   - DOMAIN-SUFFIX,downloaddispatch.itunes.apple.com
   - DOMAIN-SUFFIX,iosapps.itunes.apple.com
