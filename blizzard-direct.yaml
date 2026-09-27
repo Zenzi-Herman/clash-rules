@@ -8,6 +8,7 @@ payload:
  # - DOMAIN-SUFFIX,akamaized.net
 #  - DOMAIN-SUFFIX,level3.blizzard.com
 #   - DOMAIN-KEYWORD,akamaized
+  - DOMAIN-SUFFIX,cloudn.co.kr
 
   - DOMAIN-SUFFIX,bnetproduct-a.akamaihd.net
   - DOMAIN-SUFFIX,blz-contentstack-images.akamaized.net
