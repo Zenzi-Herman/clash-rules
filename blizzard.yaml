@@ -8,49 +8,27 @@ payload:
   - IP-ASN,396982
   - IP-ASN,13335
   - IP-ASN,36459
+
   - DOMAIN-SUFFIX,cdn.cloudflare.com
   - DOMAIN-SUFFIX,nel.cloudflare.com
   
-
-  - DOMAIN-SUFFIX,blz-contentstack-images.akamaized.net
   - DOMAIN-SUFFIX,cdn.blizzard.com
-  - DOMAIN,telemetry-in.battle.net
+  - DOMAIN-KEYWORD,akamaihd  
   - DOMAIN-KEYWORD,akamaized
-  - DOMAIN-SUFFIX,blizzcon-a.akamaihd.net
+  
   - DOMAIN-SUFFIX,blz-contentstack.com
-  - DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
-  - DOMAIN-SUFFIX,blzddistkr1-a.akamaihd.net
-  - DOMAIN-SUFFIX,blzmedia-a.akamaihd.net
-  - DOMAIN-SUFFIX,blznav.akamaized.net
-  - DOMAIN-SUFFIX,bnetcmsus-a.akamaihd.net
-  - DOMAIN-SUFFIX,bnetproduct-a.akamaihd.net
-  - DOMAIN-SUFFIX,bnetshopus.akamaized.net
   
   - DOMAIN-SUFFIX,battle.net
-
   - DOMAIN-SUFFIX,blizzard.com
   - DOMAIN-SUFFIX,battlenet.com
 
   - DOMAIN-SUFFIX,blizzardgearstore.com
-  - DOMAIN-SUFFIX,blizzcon-a.akamaihd.net
-  - DOMAIN-SUFFIX,blz-contentstack.com
 
-  - DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
-  - DOMAIN-SUFFIX,blzddistkr1-a.akamaihd.net
-  - DOMAIN-SUFFIX,blzmedia-a.akamaihd.net
-  - DOMAIN-SUFFIX,blznav.akamaized.net
-
-
-  - DOMAIN-SUFFIX,bnetcmsus-a.akamaihd.net
-  - DOMAIN-SUFFIX,bnetproduct-a.akamaihd.net
-  - DOMAIN-SUFFIX,bnetshopus.akamaized.net
   - DOMAIN-SUFFIX,cdp.cloud.unity3d.com
 
   - DOMAIN-SUFFIX,diablo3.com
-
   - DOMAIN-SUFFIX,diabloimmortal.com
   - DOMAIN-SUFFIX,firesidegatherings.com
-
   - DOMAIN-SUFFIX,heroes.nos.netease.com
   - DOMAIN-SUFFIX,heroesofthestorm.com
 
