@@ -8,6 +8,7 @@ payload:
   - IP-ASN,396982
   - IP-ASN,13335
   - IP-ASN,36459
+  - IP-ASN,8075
 
   - DOMAIN-SUFFIX,cdn.cloudflare.com
   - DOMAIN-SUFFIX,nel.cloudflare.com
