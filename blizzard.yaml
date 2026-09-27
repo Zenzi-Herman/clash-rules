@@ -12,10 +12,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.cloudflare.com
   - DOMAIN-SUFFIX,nel.cloudflare.com
   
-  - DOMAIN-SUFFIX,cdn.blizzard.com
-  - DOMAIN-KEYWORD,akamaihd  
-  - DOMAIN-KEYWORD,akamaized
-  
+
   - DOMAIN-SUFFIX,blz-contentstack.com
   
   - DOMAIN-SUFFIX,battle.net
