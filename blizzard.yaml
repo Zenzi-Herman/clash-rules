@@ -1,6 +1,8 @@
 payload:
 
   - DOMAIN-SUFFIX,gaming-sdk.com
+  - IP-ASN,13335
+  - IP-CIDR,104.18.0.0/24
 
   - DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
   - DOMAIN-SUFFIX,blzddistkr1-a.akamaihd.net
