@@ -9,18 +9,13 @@ payload:
 #  - DOMAIN-SUFFIX,level3.blizzard.com
 #   - DOMAIN-KEYWORD,akamaized
 
+  - DOMAIN-SUFFIX,bnetproduct-a.akamaihd.net
   - DOMAIN-SUFFIX,blz-contentstack-images.akamaized.net
-
   - DOMAIN-SUFFIX,blizzcon-a.akamaihd.net
-  - DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
-  - DOMAIN-SUFFIX,blzddistkr1-a.akamaihd.net
   - DOMAIN-SUFFIX,blzmedia-a.akamaihd.net
   - DOMAIN-SUFFIX,blznav.akamaized.net
   - DOMAIN-SUFFIX,bnetcmsus-a.akamaihd.net
-  - DOMAIN-SUFFIX,bnetproduct-a.akamaihd.net
   - DOMAIN-SUFFIX,bnetshopus.akamaized.net
-  - DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
-  - DOMAIN-SUFFIX,blzddistkr1-a.akamaihd.net
   - DOMAIN-SUFFIX,blzmedia-a.akamaihd.net
   - DOMAIN-SUFFIX,blznav.akamaized.net
   - DOMAIN-SUFFIX,blz-contentstack.com
