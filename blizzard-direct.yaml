@@ -10,7 +10,6 @@ payload:
 #   - DOMAIN-KEYWORD,akamaized
 
   - DOMAIN-SUFFIX,blz-contentstack-images.akamaized.net
-  - DOMAIN-SUFFIX,cdn.blizzard.com
 
   - DOMAIN-SUFFIX,blizzcon-a.akamaihd.net
   - DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
