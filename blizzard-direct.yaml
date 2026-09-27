@@ -23,7 +23,7 @@ payload:
   - DOMAIN-SUFFIX,bnetcmsus-a.akamaihd.net
   - DOMAIN-SUFFIX,bnetproduct-a.akamaihd.net
   - DOMAIN-SUFFIX,bnetshopus.akamaized.net
-  - DOMAIN-SUFFIX,cloudn.co.kr
+
 
 
   - DOMAIN-SUFFIX,blzstatic.cn
