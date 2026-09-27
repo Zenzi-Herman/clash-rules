@@ -6,7 +6,8 @@ payload:
 
   - IP-ASN,57976 
   - IP-ASN,396982
-  - IP-ASN,13335
+  # 涉及captcha
+  #- IP-ASN,13335
   - IP-ASN,36459
   - IP-ASN,8075
 
