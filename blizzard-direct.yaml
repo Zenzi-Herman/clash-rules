@@ -7,9 +7,11 @@ payload:
 #  - DOMAIN-SUFFIX,api.iris.microsoft.com
  # - DOMAIN-SUFFIX,akamaized.net
 #  - DOMAIN-SUFFIX,level3.blizzard.com
+#   - DOMAIN-KEYWORD,akamaized
+
   - DOMAIN-SUFFIX,blz-contentstack-images.akamaized.net
   - DOMAIN-SUFFIX,cdn.blizzard.com
-  - DOMAIN-KEYWORD,akamaized
+
   - DOMAIN-SUFFIX,blizzcon-a.akamaihd.net
   - DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
   - DOMAIN-SUFFIX,blzddistkr1-a.akamaihd.net
