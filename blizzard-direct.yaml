@@ -2,11 +2,10 @@ payload:
   #- DOMAIN,blizzard.gcdn.cloudn.co.kr,REJECT
   #- DOMAIN,kr.cdn.blizzard.com,REJECT
 
-
-#  - DOMAIN-SUFFIX,xboxlive.com
-#  - DOMAIN-SUFFIX,api.iris.microsoft.com
- # - DOMAIN-SUFFIX,akamaized.net
-#  - DOMAIN-SUFFIX,level3.blizzard.com
+  - DOMAIN-SUFFIX,cdn.blizzard.com
+  - DOMAIN-KEYWORD,akamaihd  
+  - DOMAIN-KEYWORD,akamaized
+  
   - DOMAIN-SUFFIX,blzstatic.cn
   - DOMAIN-SUFFIX,battlenet.com.cn
   - DOMAIN-SUFFIX,blizzard.cn
