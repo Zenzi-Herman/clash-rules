@@ -1,5 +1,7 @@
 payload:
 
+  - DOMAIN-SUFFIX,cloudn.co.kr
+
   - DOMAIN-SUFFIX,blzddist1-a.akamaihd.net
   - DOMAIN-SUFFIX,blzddistkr1-a.akamaihd.net
 
