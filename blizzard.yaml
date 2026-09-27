@@ -1,8 +1,4 @@
 payload:
-  - IP-CIDR,182.162.132.1/32,no-resolve
-  - IP-CIDR,185.60.112.157/32,no-resolve
-  - IP-CIDR,185.60.112.158/32,no-resolve
-  - IP-CIDR,24.105.30.129/32,no-resolve
 
   - DOMAIN-SUFFIX,battle.net
   - DOMAIN-SUFFIX,blizzard.com
@@ -30,6 +26,12 @@ payload:
   - DOMAIN-SUFFIX,worldofwarcraft.com
 
   - DOMAIN-SUFFIX,blizzard
+
+  - IP-CIDR,182.162.132.1/32,no-resolve
+  - IP-CIDR,185.60.112.157/32,no-resolve
+  - IP-CIDR,185.60.112.158/32,no-resolve
+  - IP-CIDR,24.105.30.129/32,no-resolve
+  
   - IP-CIDR,103.4.115.248/32
   - IP-CIDR,182.162.135.1/32
   - IP-CIDR,185.60.112.157/32
