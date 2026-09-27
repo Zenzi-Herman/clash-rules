@@ -6,6 +6,7 @@ payload:
   - DOMAIN-KEYWORD,akamaihd  
   - DOMAIN-KEYWORD,akamaized
   - DOMAIN-SUFFIX,akadns.net
+  - DOMAIN-SUFFIX,gcdn.cloudn.co.kr
   
   - DOMAIN-SUFFIX,blzstatic.cn
   - DOMAIN-SUFFIX,battlenet.com.cn
