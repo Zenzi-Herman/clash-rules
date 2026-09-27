@@ -3,6 +3,8 @@ payload:
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,itunes.com
   - DOMAIN-SUFFIX,icloud.com
+
+  - IP-ASN,714
  # - DOMAIN-SUFFIX,bag.itunes.apple.com
 #  - DOMAIN-SUFFIX,downloaddispatch.itunes.apple.com
  # - DOMAIN-SUFFIX,iosapps.itunes.apple.com
