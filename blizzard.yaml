@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,blizzardgearstore.com
   - DOMAIN-SUFFIX,blz-contentstack.com
 
+  - DOMAIN,telemetry-in.battle.net
   - DOMAIN-SUFFIX,cdp.cloud.unity3d.com
 
   - DOMAIN-SUFFIX,diablo3.com
