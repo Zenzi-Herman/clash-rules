@@ -10,20 +10,20 @@ payload:
 #   - DOMAIN-KEYWORD,akamaized
   - DOMAIN-SUFFIX,cloudn.co.kr
 
-  - DOMAIN-SUFFIX,bnetproduct-a.akamaihd.net
-  - DOMAIN-SUFFIX,blz-contentstack-images.akamaized.net
-  - DOMAIN-SUFFIX,blizzcon-a.akamaihd.net
-  - DOMAIN-SUFFIX,blzmedia-a.akamaihd.net
-  - DOMAIN-SUFFIX,blznav.akamaized.net
-  - DOMAIN-SUFFIX,bnetcmsus-a.akamaihd.net
-  - DOMAIN-SUFFIX,bnetshopus.akamaized.net
-  - DOMAIN-SUFFIX,blzmedia-a.akamaihd.net
-  - DOMAIN-SUFFIX,blznav.akamaized.net
-  - DOMAIN-SUFFIX,blz-contentstack.com
-  - DOMAIN-SUFFIX,blizzcon-a.akamaihd.net
-  - DOMAIN-SUFFIX,bnetcmsus-a.akamaihd.net
-  - DOMAIN-SUFFIX,bnetproduct-a.akamaihd.net
-  - DOMAIN-SUFFIX,bnetshopus.akamaized.net
+ # - DOMAIN-SUFFIX,bnetproduct-a.akamaihd.net
+ # - DOMAIN-SUFFIX,blz-contentstack-images.akamaized.net
+  #- DOMAIN-SUFFIX,blizzcon-a.akamaihd.net
+  #- DOMAIN-SUFFIX,blzmedia-a.akamaihd.net
+  #- DOMAIN-SUFFIX,blznav.akamaized.net
+  #- DOMAIN-SUFFIX,bnetcmsus-a.akamaihd.net
+ # - DOMAIN-SUFFIX,bnetshopus.akamaized.net
+ # - DOMAIN-SUFFIX,blzmedia-a.akamaihd.net
+ # - DOMAIN-SUFFIX,blznav.akamaized.net
+ # - DOMAIN-SUFFIX,blz-contentstack.com
+ # - DOMAIN-SUFFIX,blizzcon-a.akamaihd.net
+#  - DOMAIN-SUFFIX,bnetcmsus-a.akamaihd.net
+ # - DOMAIN-SUFFIX,bnetproduct-a.akamaihd.net
+ # - DOMAIN-SUFFIX,bnetshopus.akamaized.net
 
 
 
