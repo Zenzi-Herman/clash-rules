@@ -5,6 +5,7 @@ payload:
   - IP-CIDR,24.105.30.129/32,no-resolve
 
   - IP-ASN,57976 
+  - IP-ASN,396982
   - DOMAIN-SUFFIX,cdn.cloudflare.com
   - DOMAIN-SUFFIX,nel.cloudflare.com
   
