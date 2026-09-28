@@ -11,5 +11,4 @@ payload:
 
 # Akamai
   - IP-ASN,20940
-  # Cloudflare（ipip.net）
-  - IP-ASN,54113  
+
