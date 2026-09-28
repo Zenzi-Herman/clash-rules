@@ -7,3 +7,9 @@ payload:
   - IP-ASN,63949
  # fastly - IP-ASN,54113  
   - IP-ASN,21859
+
+# Akamai
+  - IP-ASN,20940
+  # Cloudflare（ipip.net）
+  - IP-CIDR,104.26.13.31/32
+  - IP-CIDR,104.20.25.138/32
