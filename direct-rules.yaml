@@ -7,6 +7,8 @@ payload:
   - IP-ASN,63949
  # fastly - IP-ASN,54113  
   - IP-ASN,21859
+  # CLOUDFLARE
+  - IP-ASN,13335
 
 # Akamai
   - IP-ASN,20940
