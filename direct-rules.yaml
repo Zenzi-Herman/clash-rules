@@ -13,3 +13,4 @@ payload:
   # Cloudflare（ipip.net）
   - IP-CIDR,104.26.13.31/32
   - IP-CIDR,104.20.25.138/32
+  - IP-CIDR,104.26.13.205/32
