@@ -10,5 +10,6 @@ payload:
 
 
 # Akamai
+  - DOMAON-SUFFIX,tractive.com
   - IP-ASN,20940
 
