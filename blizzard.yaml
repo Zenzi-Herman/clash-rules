@@ -10,6 +10,9 @@ payload:
   #- IP-ASN,36459
   - IP-ASN,8075
 
+  # Akamai
+  - IP-ASN,20940
+
   - DOMAIN-SUFFIX,akamaized.net
 
   - DOMAIN-SUFFIX,cdn.cloudflare.com
