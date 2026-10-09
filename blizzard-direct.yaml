@@ -1,7 +1,10 @@
 payload:
   #- DOMAIN,blizzard.gcdn.cloudn.co.kr,REJECT
   #- DOMAIN,kr.cdn.blizzard.com,REJECT
+  - DOMAIN-SUFFIX,kr.api.blizzard.com
+  - DOMAIN-SUFFIX,api.blizzard.com
 
+  
   - DOMAIN-SUFFIX,cdn.blizzard.com
   - DOMAIN-KEYWORD,akamaihd  
   - DOMAIN-KEYWORD,akamaized
