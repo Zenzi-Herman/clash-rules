@@ -9,6 +9,5 @@ payload:
   - IP-ASN,21859
 
   - DOMAIN-KEYWORD,cloudfront
-# Akamai
-  - IP-ASN,20940
+
 
