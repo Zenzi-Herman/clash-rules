@@ -2,6 +2,8 @@ payload:
    
 # ESPN+
 
-   #- DOMAIN-SUFFIX,espn.com
+   - DOMAIN-SUFFIX,espn.com
    - DOMAIN-KEYWORD,espn
    - DOMAIN-SUFFIX,dssott.com
+   - DOMAIN-SUFFIX,espncdn.com
+   - DOMAIN-SUFFIX,bamgrid.com
