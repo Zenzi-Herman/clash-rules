@@ -6,9 +6,6 @@ payload:
 
   
   - DOMAIN-SUFFIX,cdn.blizzard.com
-  - DOMAIN-KEYWORD,akamaihd  
-  - DOMAIN-KEYWORD,akamaized
-  - DOMAIN-SUFFIX,akadns.net
   - DOMAIN-SUFFIX,gcdn.cloudn.co.kr
   
   - DOMAIN-SUFFIX,blzstatic.cn
