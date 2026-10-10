@@ -1,12 +1,12 @@
 payload:
   #- DOMAIN,blizzard.gcdn.cloudn.co.kr,REJECT
   #- DOMAIN,kr.cdn.blizzard.com,REJECT
-  - DOMAIN-SUFFIX,kr.api.blizzard.com
+  #- DOMAIN-SUFFIX,kr.api.blizzard.com
   #- DOMAIN-SUFFIX,api.blizzard.com
 
   
-  - DOMAIN-SUFFIX,cdn.blizzard.com
-  - DOMAIN-SUFFIX,gcdn.cloudn.co.kr
+  #- DOMAIN-SUFFIX,cdn.blizzard.com
+  #- DOMAIN-SUFFIX,gcdn.cloudn.co.kr
   
   - DOMAIN-SUFFIX,blzstatic.cn
   - DOMAIN-SUFFIX,battlenet.com.cn
