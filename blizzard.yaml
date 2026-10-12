@@ -9,6 +9,7 @@ payload:
   #- IP-ASN,13335
   #- IP-ASN,36459
   - IP-ASN,8075
+  - IP-ASN,396982
 
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,api.blizzard.com
