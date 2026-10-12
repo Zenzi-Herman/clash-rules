@@ -1,6 +1,7 @@
 payload:
 
   - IP-ASN,AS396982
+  - IP-ASN,AS16509
   
   - DOMAIN-SUFFIX,max.com
   - DOMAIN-SUFFIX,discomax.com
