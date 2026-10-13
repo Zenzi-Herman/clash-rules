@@ -5,7 +5,7 @@ payload:
   #- DOMAIN-SUFFIX,api.blizzard.com
 
   
-  - DOMAIN-SUFFIX,cdn.blizzard.com
+  #- DOMAIN-SUFFIX,cdn.blizzard.com
   - DOMAIN-SUFFIX,cloudn.co.kr
   
   - DOMAIN-SUFFIX,blzstatic.cn
