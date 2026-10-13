@@ -4,5 +4,3 @@ payload:
   - DOMAIN-SUFFIX,tiktokcdn-us.com
   - DOMAIN-KEYWORD,tiktok
 
-  # Akamai
-  - IP-ASN,20940
