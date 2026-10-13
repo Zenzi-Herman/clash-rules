@@ -18,7 +18,8 @@ payload:
   - DOMAIN-KEYWORD,akamaized
   - DOMAIN-SUFFIX,akadns.net
 
-
+  - DOMAIN-SUFFIX,gaming-sdk.com
+  
   - DOMAIN-SUFFIX,cdn.cloudflare.com
   - DOMAIN-SUFFIX,nel.cloudflare.com
   
