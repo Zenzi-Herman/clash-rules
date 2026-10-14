@@ -1,7 +1,7 @@
 payload:
   #- DOMAIN,blizzard.gcdn.cloudn.co.kr,REJECT
   # 下载相关
-  - DOMAIN,kr.cdn.blizzard.com
+  #- DOMAIN,kr.cdn.blizzard.com
   #- DOMAIN-SUFFIX,kr.api.blizzard.com
   #- DOMAIN-SUFFIX,api.blizzard.com
 
