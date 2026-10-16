@@ -2,7 +2,8 @@ payload:
 
   - IP-ASN,396982
   - IP-ASN,16509
-  - IP-ASN,15169
+  # 这个包含了谷歌的服务
+  #- IP-ASN,15169
   
   - DOMAIN-SUFFIX,max.com
   - DOMAIN-SUFFIX,discomax.com
