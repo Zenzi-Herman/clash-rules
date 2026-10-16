@@ -33,11 +33,10 @@ payload:
   - DOMAIN-SUFFIX,ttwebview.com
   - DOMAIN-KEYWORD,musical.ly
   - DOMAIN-KEYWORD,tiktok
-  - PROCESS-NAME,com.zhiliaoapp.musically
 
   - DOMAIN-SUFFIX,tik-tokapi.com
   - DOMAIN-SUFFIX,tik2019.com
   - DOMAIN-SUFFIX,tikersport.com
   - DOMAIN-SUFFIX,tikmob.com
-  - tiktoknewaccount.com
-  - tiktokrow-cdn.com
+  - DOMAIN-SUFFIX,tiktoknewaccount.com
+  - DOMAIN-SUFFIX,tiktokrow-cdn.com
