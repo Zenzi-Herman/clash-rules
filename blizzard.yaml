@@ -12,7 +12,7 @@ payload:
   - IP-ASN,396982
   
   # Akamai
-  - IP-ASN,20940
+ # - IP-ASN,20940
 
   - DOMAIN-SUFFIX,akamaized.net
   - DOMAIN-SUFFIX,api.blizzard.com
