@@ -1,7 +1,7 @@
 payload: 
    
 # ESPN+
-
+   - DOMAIN-SUFFIX,go.com
    - DOMAIN-SUFFIX,conviva.com
    - DOMAIN-SUFFIX,dtci.technology
    - DOMAIN-SUFFIX,espn.com
