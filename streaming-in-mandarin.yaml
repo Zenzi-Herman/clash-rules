@@ -1,7 +1,8 @@
 payload:
 
   - IP-ASN,396982
-  - IP-ASN,16509
+  # 包含了paramount的服务
+  #- IP-ASN,16509
   # 这个包含了谷歌的服务
   #- IP-ASN,15169
   
