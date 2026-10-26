@@ -1,4 +1,7 @@
 payload:
+# Akamai
+  - IP-ASN,33905
+
   - DOMAIN-SUFFIX,tiktokcdn.com
   - DOMAIN-SUFFIX,tiktokv.us
   - DOMAIN-SUFFIX,tiktokcdn-us.com
