@@ -2,3 +2,4 @@ payload:
   - DOMAIN-KEYWORD,nflx
   - DOMAIN-KEYWORD,netflix
   - IP-ASN,40027
+  - IP-ASN,2906
