@@ -10,6 +10,9 @@ payload:
   - DOMAIN-SUFFIX,edgesuite.net
   - DOMAIN-SUFFIX,customlinks.appsflyer.com
   - DOMAIN-SUFFIX,fastly.net
+
+  - IP-CIDR,185.60.68.0/22
+  - IP-CIDR,185.139.216.0/23
   
   - DOMAIN-SUFFIX,max.com
   - DOMAIN-SUFFIX,discomax.com
