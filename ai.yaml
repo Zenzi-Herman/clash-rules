@@ -17,13 +17,14 @@ payload:
   - DOMAIN-SUFFIX,intercom.io
   - DOMAIN-SUFFIX,intercomcdn.com
   - DOMAIN-SUFFIX,oaistatsig.com
-  - DOMAIN,cdn.openaimerge.com
-  - DOMAIN,cdn.workos.com
-  - DOMAIN,challenges.cloudflare.com
-  - DOMAIN,forwarder.workos.com
-  - DOMAIN,frontend-apps-multi-region.workos.com
-  - DOMAIN,humb.apple.com
-  - DOMAIN,images.workoscdn.com
-  - DOMAIN,js.stripe.com
-  - DOMAIN,setup.workos.com
-  - DOMAIN,workos.imgix.net
+  
+  - DOMAIN-SUFFIX,cdn.openaimerge.com
+  - DOMAIN-SUFFIX,cdn.workos.com
+  - DOMAIN-SUFFIX,challenges.cloudflare.com
+  - DOMAIN-SUFFIX,forwarder.workos.com
+  - DOMAIN-SUFFIX,frontend-apps-multi-region.workos.com
+  - DOMAIN-SUFFIX,humb.apple.com
+  - DOMAIN-SUFFIX,images.workoscdn.com
+  - DOMAIN-SUFFIX,js.stripe.com
+  - DOMAIN-SUFFIX,setup.workos.com
+  - DOMAIN-SUFFIX,workos.imgix.net
